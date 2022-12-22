@@ -2,6 +2,8 @@
 
 ## Available Scripts
 
+The project is hosted on github pages and you can [click](https://sandeep-867.github.io/crypto-react-app/) to see the webpage.
+
 In the project directory, you can run:
 
 ### `npm start`
